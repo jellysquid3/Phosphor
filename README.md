@@ -7,7 +7,7 @@
 ![GitHub tag](https://img.shields.io/github/tag/jellysquid3/phosphor-forge.svg)
 [![CurseForge downloads](http://cf.way2muchnoise.eu/full_318255_downloads.svg)](https://minecraft.curseforge.com/projects/phosphor-forge)
 
-Phosphor is a free and open-source Minecraft mod (under GNU GPLv3) aiming to save your CPU cycles and improve performance by optimizing one of Minecraft's most inefficient areas-- the lighting engine.
+Phosphor is a free and open-source Minecraft mod (under GNU LGPLv3) aiming to save your CPU cycles and improve performance by optimizing one of Minecraft's most inefficient areas-- the lighting engine.
 It works on **both the client and server**, and can be installed on servers **without requiring clients to also have the mod**.
 
 The mod is designed to be as minimal as possible in the changes it makes, and as such, does not modify the light model or interfaces of vanilla Minecraft. Because of this, Phosphor should be compatible
